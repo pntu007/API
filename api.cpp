@@ -47,7 +47,7 @@ class API_NINJAS{
         return readBuffer;
     }
 
-    string apiKey = "YjJ1GZr7s6wwRR0OBqXHbA==0lAmktt80FWsC0iG";
+    string apiKey = "YOUR_API_KEY_ASSOCIATED_WITH_YOUR_ACCOUNT";
     string url = "https://api.api-ninjas.com/v1/";
     void dadJoke();
     void bucketList();
