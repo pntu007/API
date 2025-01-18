@@ -9,6 +9,8 @@ To compile and run the project, ensure you have the following dependencies:
 - **cURL**: A library used for making HTTP requests.
 - **nlohmann/json**: A JSON parsing library for C++.
 
+Create Account on [Api_Ninja](https://api-ninjas.com/api) and get the Api Key associated with the account.
+
 ### Installation of Dependencies
 
 1. **Install cURL**:
