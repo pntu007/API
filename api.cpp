@@ -107,8 +107,7 @@ void API_NINJAS :: riddle() {
         cerr << "JSON Parsing Error: " << e.what() << endl;
     }
 }
-// https://api-ninjas.com/api
-// g++ -o 1 1.cpp -lcurl
+
 int main() {
     API_NINJAS api;
     return 0;
